@@ -37,6 +37,7 @@ install and start ===> enjoy
 
 ### Demo
  splashscreen 
+![image](https://github.com/marcusmigl/ExitLag/assets/155190865/8f125483-b38d-412f-bb09-fbc8925fb186)
 
 
 # you can get warning 
